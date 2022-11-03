@@ -1,0 +1,643 @@
+0 COMPANY,0 DESCRIPTION,0 JOB LINK,0 JOB TITLE,0 LINK COMPANY,0 PLACE TYPE,0 PUBLISHED DATE
+EasyMorph,"— At least 3 years of extensive use of C#
+— At least 2 years of development of WPF applications (XAML, code-first, templates, etc.)
+— At least 1 year of development of client-side REST API integrations (HTTP, JSON, OAuth)
+— Profound understanding of asynchronous patterns and TPL in .NET
+— Intermediate English writing skills",https://jobs.dou.ua/companies/easyqlik/vacancies/141482/,".NET Developer (product, WPF, REST, remote)",https://jobs.dou.ua/companies/easyqlik/,віддалено,3 листопада 2022
+ПУМБ (First Ukrainian International Bank),"Who are we and why are we hiring?
+We’re creating a modern and comfortable mobile bank for Ukrainians.
+Two million people are already our users. Our satisfaction score is over 93%.
+And that’s just a warm-up. We will deliver even more and faster to delight the users.
+Our ambitious goal is to lead in both the quality and speed of feature updates.
+Our recent updates:
+Simple and effective application of “єПідтримка” and Armed Forces of Ukraine support features.
+Liveness detection during onboarding lets users avoid visiting branches and waiting in the queue.
+Interactive live and emotional support chat.
+Worldwide known money-transfer systems support.
+A huge UX update based on user feedback is halfway to its delivery.
+Client surveys show we are second in the country regarding stability and speed of updates.
+But we strive for more! Minding this, we’re looking for experienced engineers to help us develop and improve features for daily usage.
+Let’s get the ball rolling together!
+Onboarding plan and goals
+In two weeks, you’ll finish with:
+Getting to know your team and mentor, setting up a working environment, and learning the technical guidelines.
+Realizing how we work with our goals, tribes, squads, chapters, and how we use Agile.
+Fixing something to dive into the project and understand it more with the mentor’s help.
+In one and a half months:
+You’ll create new features for banking cards, products, and personalized offers.
+You’ll finish a couple of tasks and will constantly be learning the project deeper.
+You’ll provide and get back feedback on working with us.
+In three months:
+You’ll create new features for banking cards, products, and personalized offers and release them with a high-quality level.
+You’ll create an individual development plan in collaboration with your mentor.
+You’ll get and provide final feedback on the first period with us.
+You’ll be the owner of your code, review contributions from your teammates, consult about your functionality, and occasionally mentor a few novices.
+Tech Requirements.
+We use it daily and expect you experienced with:
+OOD’s general practices and approaches
+Languages/Specifications: Kotlin
+Android Jetpack (Arch components, Navigation, Room)
+DI: dagger 2
+Kotlin Coroutines and Coroutine Flow
+MVVM or MVI
+Git, Jira, Confluence
+It will be a plus:
+Requirements engineering & analyzing
+User stories decomposition, breakdown, and estimation
+Secure and effective data transfer and storage practices
+Testing: jUnit, Mockito, Robolectric
+Tools: GitLab, SonarQube, Jenkins, Firebase",https://jobs.dou.ua/companies/fuib/vacancies/213067/,Sr Android Developer/Android Lead,https://jobs.dou.ua/companies/fuib/,віддалено,14 вересня 2022
+SPD-Ukraine,"SPD-Ukraine is looking for
+Java Developer
+to work with Fintech-product for the US market. You’ll work with the Data Core subproject, which consists of several areas. Data Core provides the ability to receive and store data obtained automatically and manually from public sources, news resources, and from various data providers. Also, Data Core has many processes for the verification of received data and their pre-processing before further use. You will work on building new service functionality and improving or optimizing a large, complex, actively used application.
+About the project
+PitchBook — a platform for investment professionals. Our software provides access to data and the analytical tools to get answers fast and discover promising opportunities. Uncovers actionable insights and trends hidden within the financial data of more than three million companies. Users all over the world include large corporations, start-ups, venture capital and private equity firms, investment banks, and many others. Features of PitchBook: Advanced search / Discovery & insights /Company profiles / Workflow & efficiency / Many more.
+Few words about SPD-Ukraine
+SPD-Ukraine provides software engineering and product development services for clients worldwide-the USA, Israel, Great Britain, and other EU countries. We don’t cooperate with companies in russia and belarus.
+Global companies like Morningstar, PitchBook, GoDaddy, PieInsurance, floLIVE, SpaceNeedle, and others are our clients. We’re glad that our clients have left the russian market because of the ongoing war in Ukraine.
+Our team comprises 550+ specialists certified by Oracle, ISTQB, AWS, PMI, Scrum Alliance, Amazon, and other organizations. Having offices available in Kyiv, Lviv, and Cherkasy, our teams can work remotely without any geographical limitations.
+We think a powerful fusion of skills and personality makes great ideas happen.
+We are looking for the person who has:
+— 4+ years of experience in Java software development
+— Strong knowledge of Java Core, Java 11/Java 17
+— Experience with Spring Framework, SpringBoot
+— Experience with Hibernate
+— Strong knowledge of PostgreSQL or Microsoft SQL Server
+— Experience with Message Brokers (RabbitMQ, Kafka)
+Would be a plus:
+— Experience with ElasticSearch or Lucene
+— Experience with OpenAPI
+— Experience with Kubernetes
+— Should be familiar with and follow SOLID and KISS principles
+— Know and be able to use design patterns.
+Sounds like you? Here’s some of what you’ll be doing:
+— Building a business logic for the service
+— Write unit/integration/performance/e2e tests for own code
+— Documenting own services/algorithms/functionality
+— Participating in making technical decisions in the team, code reviews
+— Implementing reliable solutions and integrations
+— Collaborate in a distributed team
+— Taking services (parts of the domain) in ownership
+You’ll work with the following stack:
+Java 11+, k8s, Spring/SpringBoot, Hibernate, OpenAPI, PostgreSQL, RabbitMQ, Kafka
+Team Structure:
+TL + up to 4 BE Java developers, BA & QA (AQA) as a service, PM
+Schedule:
+Flexible, no evening meetings
+Interview steps:
+1) Tech-Interview with Team Lead (up to 1.5 hours)
+2) HR-Interview (up to 1 hour)
+We offer:
+Financial support for your and your family’s relocation.
+Legal support of tax residence for team members outside Ukraine.
+Financial reimbursement of expenses on medical services outside Ukraine.
+Military leave status with 50% of your monthly reward saved.
+20 working days of annual paid vacation and sick leaves.
+Educational support and financial reimbursement of language classes (Ukrainian, Polish, English, etc.)
+Does this sound like the kind of place you want to work at? We look forward to hearing ’hi’ from you :)",https://jobs.dou.ua/companies/spd-ukraine/vacancies/209295/,Middle+/Senior Java Developer,https://jobs.dou.ua/companies/spd-ukraine/,"Київ, Львів, Черкаси, віддалено",2 листопада 2022
+SocialTech,"IT Talent Sourcer
+SocialTech
+— мультипродуктова IT-компанія, у якій ми відтворили світ венчурних інвестицій. Як venture builder, запускаємо та будуємо бізнеси у серці яких сучасні технології, дані та аналітика.
+Про бізнес:
+маємо вісім продуктів у різних нішах й мільйони користувачів по всьому світу (США, Південна Америка, Європа та Азія). Щороку зростаємо по всім ключовим показникам х2 і навіть не думаємо гальмувати. Лише минулого року SocialTech успішно стартував чотири нові бізнеси, тож швидкість, драйв, захоплення своєю справою та орієнтованість на результат у нас в ДНК.
+Про підтримку України:
+закуповуємо гуманітарну допомогу; допомагаємо еквіпом та амуніцією ЗСУ, Теробороні; щороку сплачуємо податки в держ.казну, щоб підтримувати економіку країни; вкладаємо кошти в вітчизняні освітні програми, аби майбутні досвідчені спеціалісти продовжували розбудовувати країну.
+Про команду:
+пишаємося сильною командою із 500+ фахівців, які мають круту експертизу й амбітні цілі. Наші люди — найцінніший актив компанії. Ми об‘єднуємо таланти, які горять своєю справою та запалюють усіх довкола драйвом та цілеспрямованістю. Ми віримо, що оточення має значення, тому поставили амбітну мету — мати найкращий робочий простір в Україні.
+Ситуація:
+Для втілення амбіційних планів компанії в рості х2, команда рекрутингу потребує підсилення —
+IT Talent Sourcer
+-а.
+Основним завданням буде пошук і залучення найкращих фахівців (DevOps, BackEnd/FrontEnd Engineers, Analyst, Marketers, Designers, Finance roles, etc.).
+Про Вас:
+Маєте від 1 року досвіду в технічному сорсингу;
+Досвід взаємодії з активними та пасивними кандидатами за допомогою різних методів пошуку
+(X-Ray,
+Boolean, networking);
+Знаєте технологічні тенденції в IT та нестандартні канали пошуку талантів;
+Вмієте ефективно комунікувати з кандидатами та вибудовувати нетворк;
+Вмієте розставляти пріоритети, працювати в режимі багатозадачності та зберігати гнучкість;
+Аналітичний склад розуму та бажання працювати з аналітикою буде вагомим плюсом;
+Англійська мова — Intermediate чи вище (письмова й усна).
+Про задачі:
+Тісна співпраця з членами рекрутинг команди та Hiring Managers;
+Розробка стратегій пошуку вакансій;
+Marketing approach: публікації, запуск рекламних кампаній та просування креативів вакансій на різних платформах/соціальних мережах/професійних групах;
+Робота з активними та пасивними кандидатами: CV скринінг, пре-скрін, організація Recruitment та технічних інтерв’ю;
+Надання інформації про компанію та продукт кандидатам;
+Створення «candidates talent pool».
+Про умови:
+Професійна команда спеціалістів, які готові ділитися своєю експертизою — 10+ FTE (Technical Sourcers/IT Recruiters/Team Leads);
+Лояльність до втілення будь-яких стратегій пошуку;
+Постійне навчання та розвиток як в команді, так і індивідуально;
+Працюємо з Application Trackig System — BreezyHR;
+Офіс на Подолі;
+Безкоштовні обіди та снеки; сніданки для «ранніх пташок»;
+Страховий медичний поліс і послуги корпоративного лікаря;
+Доступ до корисної літератури, тренінгів, семінарів;
+Для комфортної роботи, ми надаємо сучасну техніку і не тільки.",https://jobs.dou.ua/companies/socialtech/vacancies/216066/,IT Talent Sourcer,https://jobs.dou.ua/companies/socialtech/,Київ,2 листопада 2022
+Delasport,"Delasport
+is an iGaming Software company providing Sports Betting & Online Casino software, and turnkey B2B solutions. Established in 2010, Delasport delivers a one-stop-shop solution of Sports Betting and Online Casino from a White-Label, with a full range of management services to a Plug&Play iFrame and a complete Turnkey. We are establishing R&D center in Kyiv and looking for talents to join our team.
+RESPONSIBILITIES
+Development of new business initiatives, extension of existing ones
+Taking active part in improvements and optimizations to the systems
+Resolve technical problems, critical thinking on development approach
+Be part of cross-functional team with end-to-end responsibility for end result
+REQUIREMENTS
+Strong analytical and problem-solving skills
+5+ years of working experience with applications based on Java
+2+ year of working experience with API development
+Ambition to write high-quality code covered with unit tests
+Microservice architecture
+Solid debugging and troubleshooting skills
+Good written and spoken English
+WE OFFER
+Hybrid type of work with flexible business hours
+Extended medical insurance during one month of cooperation
+21 business days of paid holidays a year
+Paid sick leaves, state holidays and paid days on special occasions
+PE accounting and support",https://jobs.dou.ua/companies/delasport/vacancies/217544/,Senior Java Developer,https://jobs.dou.ua/companies/delasport/,Київ,3 жовтня 2022
+Delasport,"Delasport
+is an iGaming Software company providing Sports Betting & Online Casino software, and turnkey B2B solutions. Established in 2010, Delasport delivers a one-stop-shop solution of Sports Betting and Online Casino from a White-Label, with a full range of management services to a Plug&Play iFrame and a complete Turnkey. We are establishing R&D center in Kyiv and looking for talents to join our team.
+RESPONSIBILITIES
+Development of new business initiatives, extension of existing ones
+Taking active part in improvements and optimizations to the systems
+Resolve technical problems, critical thinking on development approach
+Be part of cross-functional team with end-to-end responsibility for end result
+REQUIREMENTS
+Strong analytical and problem-solving skills
+2+ years of working experience with applications based on Java
+1+ year of working experience with API development
+Ambition to write high-quality code covered with unit tests
+Microservice architecture
+Solid debugging and troubleshooting skills
+Good written and spoken English
+WE OFFER
+Hybrid type of work with flexible business hours
+Extended medical insurance during one month of cooperation
+21 business days of paid holidays a year
+Paid sick leaves, state holidays and paid days on special occasions
+PE accounting and support",https://jobs.dou.ua/companies/delasport/vacancies/217548/,Middle Java Developer,https://jobs.dou.ua/companies/delasport/,Київ,3 жовтня 2022
+SocialTech,"Brighterly
+is the EdTech startup​​ that’s created a platform for children learning math in the U.S.. A well-coordinated, experienced team of 25+ people has a successful experience of creating an EdTech business aimed at adults. Now we are confidently taking the first steps in the children’s education niche as our product helps kids aged 4 to 10 to dive into arithmetics, algebra and geometry.
+Professional tutors with personalized resources make all these activities engaging, fun and easy for students! Our goal for the coming year is to scale our business and to gain a leading position in the Ed-Tech market!
+About Team:
+We are looking for a detail-oriented
+Customer Success Manager
+to join our Team. Customer Success Manager role is all about ensuring our users have the best possible experience and keeping our online community safe. You will also work with our Supply Operations, Product and Engineering teams to share and implement customer feedback that will skyrocket our business.
+You may be at the forefront of developing a billion-dollars-worth company: the EdTech domain is
+estimated to be worth USD 7.3 billion
+! You may also be at the forefront of our operations: suggest ideas, participate in pivots, and impact business decisions.
+Must-have requirements:
+— 1+ years experience working in a customer-facing organization;
+— At least upper-intermediate level of verbal and written English;
+— Experience in a customer-focused environment;
+— Quick learner with analytical skills;
+— Experience in building lasting relationships with customers and colleagues;
+— Ability to abstract problems and find solutions proactively;
+— Ability to work under minimal supervision with a track record of exceeding targets, KPI’s SLAs in a fast-paced and changing environment;
+— Experience in building lasting relationships with customers and colleagues.
+Would be a plus:
+— Background in education / EdTech;
+— Customer support experience / experience of working with CRM.
+Your responsibilities:
+— Communication and providing quality support in chats and emails;
+— Appointment setting of demo-clients to teachers;
+— Manage new customer onboardings from start to finish;
+— Closely monitor and analyze students’ performance dashboard to chart the overall progress of the students;
+— Leverage the dashboards to share a progress report with students and parents regularly;
+— Guide the student throughout their academic journey by directing them to right resources, valuable content, and academic learning.
+Benefits:
+— It is a unique opportunity to foster your growth and development;
+— Flexible schedule (8 hours, 2/2);
+— Fully remote working model;
+— Medical insurance after the probation period.
+What we offer:
+— A skilled and experienced team that shares knowledge and supports each other;
+— Competitive salary and regular performance reviews;
+— The opportunity to grow and improve your skills;
+— Regular feedback about the work;
+— All necessary resources for efficient work: software and tools, technologies, licenses and more;
+— Freedom to make decisions for improving your work.
+SocialTech
+is a product IT company where we recreated the venture capital world. As a venture builder, we kick off and run startups with a focus on analytics, data and machine learning.
+We are loud about our business:
+Eight projects, millions of users around the world and a strong team of more than 400 professionals with deep expertise and ambitious goals. Our people are the most valuable asset, so we strive to build businesses together with top talents on the market.
+But behind the scenes is the company’s enormous support of our state, especially as the war began. As the IT leader, we use our expertise to fight the enemy. SocialTech also created the team responsible for providing The Armed Forces of Ukraine and volunteers with necessary ammunition and humanitarian aid.
+If you have a desire to create breakthrough projects and share our values, we will be happy to see you in the
+SocialTech team!
+As the war started, we continued supporting our employees and their relatives with all our might and may. We evacuated our team and their beloved ones from different parts of the country; helped them with the relocation to our corp. sites in Western Ukraine; supported employees in financial difficulties; provided those who joined the ranks of the Armed Forces of Ukraine and the Territorial Defense Forces with special equipment. Our people are the most valuable asset, so we are ready to support our newcomers as well. Join our team and let’s win on all the fronts together!
+Click Apply to Position and join the team!",https://jobs.dou.ua/companies/socialtech/vacancies/222034/,Customer Success Manager,https://jobs.dou.ua/companies/socialtech/,віддалено,27 жовтня 2022
+LLC Proxima Research International,"досвід розробки на JS
+3 роки + досвіду розробки на Vue.js
+Знання :
+— HTML/CSS/Flexbox
+— ES6
+— Vue.js (бажано с Vue Router, Vuex, Vuetify)
+— Работа с REST API (Axios или др.)
+Опціонально:
+— TypeScript
+— WebSockets/SockJS
+— Основи OAuth2
+— Опит роботи з AWS
+Задачі
+Розробка веб-додатків
+Верстка на підставі макетів Figma",https://jobs.dou.ua/companies/teamsoft/vacancies/221782/,Front end (Vue.js),https://jobs.dou.ua/companies/teamsoft/,віддалено,25 жовтня 2022
+Plarium,"Команда займається дизайн-супроводом бренду Plarium та відповідає за візуальну складову його комунікацій. Дизайнери готують анімації, 3D-ілюстрації, продукти промислового дизайну, брендований одяг, аксесуари, проєктують дизайн-середовища та малюють арти.
+На посаді Design Product Manager ви зможете реалізовувати власні творчі ідеї, розробляти унікальний мерч у команді з досвідченими дизайнерами та взаємодіяти з європейськими підрядниками.
+Дізнатися більше про роботу команди можна з
+відео
+про створення худі з персонажами ігор Plarium та зі
+статті
+про розроблення скульптур Галека та Етель з Raid: Shadow Legends.
+Ви будете:
+планувати та доповнювати лінійку брендованої продукції;
+знаходити та реалізовувати нестандартні рішення для мерчу, зовнішньої реклами та артінсталяцій;
+вести переговори з постачальниками та контролювати виробничий процес;
+проводити технічну перевірку дизайн-макетів, готувати їх до друку та виробництва.
+Необхідні навички та знання:
+1+ років досвіду роботи в друкарнях, креативних агенціях або команді Branding Design;
+знання додрукарської підготовки, друкарських та післядрукарських процесів;
+володіння графічним пакетом Adobe (Illustrator, Photoshop, Acrobat Pro);
+навички бізнес-переговорів та ділового листування;
+володіння українською мовою;
+знання англійської мови на рівні Intermediate+.
+Буде плюсом:
+базове розуміння швейних технологій та процесу моделювання одягу;
+володіння будь-яким 3D-редактором на базовому рівні та розуміння процесу підготовки макетів до 3D-друку;
+знання польської мови;
+досвід роботи з первинною документацією.
+Ми пропонуємо:
+офіційне працевлаштування;
+медичне страхування;
+групові та індивідуальні заняття з англійської мови;
+оплачувані майстер-класи, курси та внутрішні професійні тренінги;
+супровід під час релокації у Варшаву.
+* Надсилаючи резюме, ви погоджуєтеся на оброблення ваших персональних даних. Вони будуть оброблені ТОВ «Пларіум Юкрєйн» (Україна, м. Харків, пр. Науки, 27Б) згідно з нашою політикою зберігання та захисту персональних даних та Закону України «Про захист персональних даних».",https://jobs.dou.ua/companies/plarium/vacancies/221872/,Design Product Manager,https://jobs.dou.ua/companies/plarium/,Варшава (Польща),25 жовтня 2022GameDev
+Fluent Trade Technologies,"Fluent Trade Technologies
+is the fastest ‘end-to-end’ data & trading technology provider in the FX, FI and Futures markets.
+Fluent is a market leader with a significant tier 1 & 2 client base in the financial world,
+Please visit us at
+www.fluenttech.net
+We are growing and inviting you to join our today’s new projects as
+Application Support Engineer (Linux /
+FinTech/Trading)
+The Support Engineer will be responsible for providing high-quality and effective support to Fluent’s rapidly growing customer base.
+The support engineer provides high-quality technical support for Fluent’s rapidly growing customer base (global banks). As an expert in both the infrastructure and applicative aspects, the engineer will support both technical and non-technical end-users.
+Responsibilities:
+Respond to customers’ inquiries relating to information, product functionality and issues.
+Log and classify all calls and requests for assistance in Service Now
+Recognize and escalate recurring problems, inferior processes or outdated procedures.
+Perform configuration modifications, documenting troubleshooting and problem resolution steps.
+Work on assigned customer integration projects
+REQUIREMENTS
+Linux and Ability to analyze log files. Knowledge of regexp, processes.
+Knowledge of scripting — at least one of Bash, Python, Perl or CShell
+3-5 or
+more years of experience in support/technical role
+Basic network knowledge — Telnet, TCP/IP
+English — Ability to communicate and engage effectively, verbally and in writing
+Excellent analytical skills with the ability to solve problems and develop solutions.
+Advantage
+experience in support/technical role in financial markets with FIX protocol, eFx, Jira ,SVN, C++",https://jobs.dou.ua/companies/fluent-trade-technologies/vacancies/220199/,Support Engineer (Linux) — UA Night Shifts/US Day Shifts,https://jobs.dou.ua/companies/fluent-trade-technologies/,"за кордоном, віддалено",4 жовтня 2022
+Livingston Research,"We are looking for a
+UX/UI Designer,
+who will be responsible for the design and implementation of all the experiences a user has when interacting with our web product. The UX/UI designer will work closely with our Product and marketing team to ensure seamless web/mobile design and the successful implementation of UX/UI best practices and principles.
+Why should you choose us?
+Freedom and challenge to make independent decisions in your area of responsibility, and take part in decision-making on a global level;
+Bureaucracy-free workplace and processes;
+Opportunity to work directly with the Product team and founders and make a real impact.
+Scope of responsibilities:
+Investigating user-experience challenges and requirements for our web platform based on user interviews, heatmaps, and product usage data.
+Developing and conceptualizing a comprehensive UI/UX design strategy for the product.
+Producing high-quality UX design solutions through wireframes, visual and graphic designs, storyboards, site maps, and prototypes.
+Designing UI/UX elements and tools such as advanced chat, order forms, user cabinet, landing pages, etc.
+Designing and testing page layouts, page designs, and user flow to improve business metrics and user experience.
+Testing UI/UX of elements such as CTAs, banners, etc.
+Collaborating with the marketing and product teams to ensure the creation and delivery of tailored experiences to the user.
+Providing advice and guidance on the implementation of UX research methodologies and testing activities to analyze and predict user behavior.
+Requirements:
+3+ years of UI/UX design experience for digital products or services.
+A portfolio of professional UI/UX design work for both web and mobile platforms.
+Working knowledge of the following technologies and software: Figma, Sketch, InVision, Adobe Creative Suite.
+Experience in working with products made on HTML, React, AMP
+A team player but can work independently too.
+Structured thinking
+English — upper intermediate
+Excellent written and verbal communication skills.
+Multi-tasking and time-management skills, with the ability to prioritize tasks.
+We offer:
+Competitive salary in USD based on your qualifications
+Transparent bonus system that directly depends on the performance of your campaigns
+Freedom to move between projects, suggest and experiment with new traffic channels
+Career development
+Regular Personal Development Sessions with the CMO and company founders
+Educational sponsorship (various educational opportunities, e.g. courses, conferences, meet-ups, etc. are sponsored by the company)
+Remote mode of work
+21 business days of paid vacation and unlimited sick leaves
+Mental health well-being (including compensation for individual consultations with a psychologist) and sports initiatives
+Opportunity to make a difference for thousands and thousands of our active users!",https://jobs.dou.ua/companies/livingston-research/vacancies/216214/,UX/UI Product Designer (В2С),https://jobs.dou.ua/companies/livingston-research/,віддалено,24 жовтня 2022
+mealco,"Required skills and experience
+5+ years in Software Development.
+2+ years experience as a team lead.
+Expert in JavaScript or TypeScript.
+3+ years experience in NodeJS (including one of the frameworks: Express, Nest, Koa, Fastify, etc.).
+3+ years of experience in frontend development utilizing modern frameworks such as React / Vue / Angular.
+Solid understanding and experience with RDBMS, NoSQL databases, and ORMs.
+Understanding of microservices and serverless architecture concepts and best practices.
+Problem solver and quick learner.
+Excellent communication skills.
+Proactive personality.
+Upper-intermediate to fluent English.
+As a plus
+Experience with Google Cloud (Serverless, GKE, BigQuery).
+Knowledge of CI\CD technics implementation.
+Experience with BI and DB administration.
+We offer
+Competitive salary.
+Stock options at a fast-growing NY-based startup.
+Flexible working hours.
+Growth opportunities in Ukraine and the US.
+A highly ambitious and friendly global team.
+Paid vacation days, PTO days, and other benefits.
+Get exposure to a leading US early-stage startup.
+Responsibilities
+Lead the R&D team with a hands-on approach.
+Full-Stack development of cloud-based web data applications.
+Lead the technical design, architecture, development, and implementation of best practices.
+Take responsibility for feature development from the initial phase to deployment.
+Provide technical guidance and mentoring to team members.
+Project description
+Mealco is building restaurants of the future using innovative technology as our backbone.
+Our leading software and analytics help propel both new and existing restaurant brands
+through a focus on digital and delivery-first concepts. We are backed by top United States
+investors and CEOs, and we are quickly scaling. Secretive projects that will influence
+millions of consumers around the globe; apply to learn more.",https://jobs.dou.ua/companies/mealco/vacancies/220326/,Full Stack Team Lead,https://jobs.dou.ua/companies/mealco/,віддалено,5 жовтня 2022
+Samsung R&D Institute Ukraine,"Project:
+work with Samsung flagship devices, most featured mobile games and popular game engines
+Responsibilities:
+development of different Android 3D graphics middleware for Samsung Android devices
+direct work with graphics API
+applications development based on Samsung proprietary 3D graphics middleware
+Requirements:
+Vulkan or/and OpenGL
+strong C++/OOP
+As a plus:
+experience with preferable Unity/Unreal Engine
+Java
+development experience for Android
+experience with CPU/GPU performance profiling and optimization
+We offer:
+competitive salary, its annual review and different bonuses
+official employment (gig contract)
+paid annual vacation
+paid maternity/paternity, sick leaves
+opportunity to become an inventor of international patents with paid bonuses
+medical & life insurance for employees and their children
+convenient office location (Business Center ‘101 Tower’)
+lunches’ compensation included in the salary
+educational and self-developmental opportunities in software creation, applied domains, soft skills & leadership",https://jobs.dou.ua/companies/samsung/vacancies/179801/,3D Graphics Engineer,https://jobs.dou.ua/companies/samsung/,Київ,3 жовтня 2022
+Samsung R&D Institute Ukraine,"Responsibilities:
+3D graphics applications development for Tizen TV platform;
+development of application logic;
+integration of different vision solutions;
+utilization of Samsung proprietary 3D graphics middleware.
+Major Requirements:
+C++ algorithms and data structures required;
+knowledge of OpenGL/OpenGL ES 2.0 or Vulkan;
+Would be a plus
+:
+C# / JAVA;
+experience with physics engines (ex, Bullet);
+We offer:
+competitive salary, its annual review and different bonuses;
+official employment (gig contract);
+paid annual vacation;
+paid maternity/paternity, sick leaves;
+opportunity to become an inventor of international patents with paid bonuses;
+medical & life insurance for employees and their children;
+convenient office location (Business Center ‘101 Tower’);
+lunches’ compensation included in the salary;
+educational and self-developmental opportunities in software creation, applied domains, soft skills & leadership.",https://jobs.dou.ua/companies/samsung/vacancies/191345/,Application developer,https://jobs.dou.ua/companies/samsung/,"Київ, віддалено",3 жовтня 2022
+"SOC Prime, Inc.","Responsibilities:
+Back-end development
+Build solution architecture
+Ad-hoc ETL scripts development
+Research and work with 3rd parties API
+Best Practices: Unit Testing (TDD), Code Review, CI/CD, GitFlow
+Maintaining high-quality coding standards within the team
+Continuous assessment and refinement of existing Architecture
+Work with Agile/Scrum
+Requirements:
+5+ years of back-end development (Python)
+OOP experience
+Best Practices Implementation: Unit Testing (TDD), Code Review, CI/CD, GitFlow
+Application Architecture and Database modeling practice
+Microservices
+Agile/Scrum
+English intermediate or higher
+As a plus:
+Microservices (gRPC, Rest)
+3rd parties API
+NoSQL databases (Elasticsearch, Redis)
+Experience with high-load and high scale databases
+What we can offer:
+• Competitive salary;
+• Paid annual leave;
+• Medical and COVID insurances;
+• English classes;
+• Minimum bureaucracy;
+• Opportunities for professional development and personal growth;
+• Competitive salary, reasonable and fair working conditions, flexible schedule;
+• Work in a great product company;
+• Team of strong IT professionals working in a vibrant product environment
+• A friendly and young team of professionals.
+Working conditions:
+•
+5-day
+work week (now we have mix remote and office work);
+•
+8-hour
+working day (flexible schedule);",https://jobs.dou.ua/companies/soc-prime-inc/vacancies/222265/,Senior Back End Developer,https://jobs.dou.ua/companies/soc-prime-inc/,"за кордоном, віддалено",1 листопада 2022
+Precoro Inc.,"Precoro is a Ukrainian product-based company that empowers businesses to leverage their procurement and spending operations. We help customers from more than 80 countries (USA, UK, Europe, and Asia) to transform their purchasing experience by replacing Excel spreadsheets, paperwork, and manual processes.
+We keep improving our product daily, and now it is time for SOC certification. So, we are looking for an Information Security Officer to help us get and maintain the certification, create our Information Security Management System, and reduce information security risks. Your primary goal will be to proactively protect the business from external threats, being an owner of security frameworks and principles.
+Responsibilities:
+Get the SOC2 Type 2 certificate
+Manage implementation of all the processes required to get SOC2 Type 2 certificate
+Perform information security assessment of our product
+Reduce our information security risks
+Develop action plans for the implementation of the information security policies and procedures
+Participate in the customer information security compliance process
+Conduct, support, and coordinate audit procedures
+Skills, knowledge, and experience we need:
+Successful experience with getting the SOC certification
+Experience in developing & maintaining ISMS
+Knowledge of SOC2
+Knowledge of ISO 27001, PCI DSS, GDPR would be a plus
+Hands-on experience applying security solutions for network scanning, intrusion detection, WAF, Penetration testing, etc.
+Strong analytical and communication skills
+Ability to dive deep into details
+Strong written and verbal communication skills in English.
+Proactivity
+What do we offer:
+Hybrid work model
+Flexible vacation/time-off policy
+Competitive salary
+Opportunity to work with an enthusiastic, and open-minded team
+Tuition fee reimbursement
+Coworking fee reimbursement
+Medical Insurance
+Hiring process:
+Initial interview with a recruiter
+Interview with the hiring manager
+Test task
+Offer",https://jobs.dou.ua/companies/precoro/vacancies/222186/,Information Security Specialist,https://jobs.dou.ua/companies/precoro/,"Київ, віддалено",31 жовтня 2022
+TEKTELIC,"Tektelic is looking for a QA Team Lead to join our Kyiv team.
+We are constantly developing new IoT-based products for a wide range of industries, including Agriculture, Healthcare, Smart Cities, Logistics, and Manufacturing.
+Requirements
+— 3+ years of experience in Quality Assurance and Testing
+— 2+ years of experience in a QA lead role
+— Proven track record in building and managing QA team
+— Strong decision-making skills and ability to deal with ambiguity
+— Excellent communication skills and interpersonal savvy is a must
+— Upper-intermediate level of English (both written and spoken) is a must
+—
+Hands-on experience in test automation (Python) would be an advantage
+— In-depth understanding of software product lifecycle and quality assurance approaches
+— Deep understanding of client-server architecture and Web technologies
+— Experience with continuous Integration tools
+Nice to have
+— Experience in the IoT domain
+Responsibilities
+— Constantly develop and grow QA team expertise and capabilities
+— Develop and execute QA strategy across the product portfolio including QA processes maturity, test automation coverage, QA process velocity within the R&D cycle, etc.
+— ​Establish and evolve formal QA processes, ensuring that the team is using industry-accepted best practices
+— Act as a key point of contact for all QA aspects of releases, providing QA services and coordinating QA resources
+— Technically guide a team to deliver high-quality products in a committed amount of time
+— Manage QA team resource allocation. Estimate, prioritize, and coordinate testing activities
+— Collaborate with other teams and departments, company management, and clients, to ensure projects are completed to established technical standards
+Working conditions
+— Regular performance reviews to support your career development
+— Performance bonus paid twice per year
+— Office with an option for occasional remote work (full remote during the war period)
+— Paid vacation (15 business days) and sick leaves + one week of Christmas Holidays :)
+— Medical insurance from the first day
+— Well-being program
+— PE accounting support",https://jobs.dou.ua/companies/tektelic/vacancies/218074/,QA Team Lead,https://jobs.dou.ua/companies/tektelic/,"Київ, віддалено",31 жовтня 2022
+JustAnswer,"Необхідні навички
+— An exceptional UX designer with 4+ years’ experience, who loves learning and is passionate about creating and delivering user-centered, data-driven consumer experiences
+— Well versed in the current state of web and mobile technology and best practices, including building and working within a design system
+— Excellent knowledge of Material Design Guidelines and iOS Human Interface Guidelines;
+— An expert at design process, and an exceptional collaborator with product management, engineering, user research, content and design. Driven to move fast, be decisive and deliver world-class user experiences
+— Requires end-to-end UX design skills (from understanding the business and users and conceptualizing solutions to delivering pixel-perfect mocks)
+— Skilled in Figma, Miro, Mouseflow,
+UserTesting.com
+, Power BI, Google Analytics, Office 365, and an animation tool
+— Must be proficient in English
+— Detail-oriented and comfortable in a fast-paced environment supporting cross-functional teams with ability to can handle multiple projects and skilled in using data to make decisions
+— Superb communication skills in a fast-paced environment (verbal, written, and visual) and the ability to influence and build consensus
+— Design for mobile (web and native) is required
+IMPORTANT:
+Please include your killer portfolio with examples of successful UX solutions and designs along with your application to be considered.
+Буде плюсом
+— Experience with checkout pages design, funnel flows
+Пропонуємо
+— Time off throughout the year (paid and unpaid)
+— Professional development support and encouragement
+— Resources to help improve your overall well-being
+— Free membership to dive into JA product
+Обов’язки
+— Be an integral member of a fast-paced, growing UX team delivering elegant, innovative, customer-centered design solutions to complex business challenges
+— Collaborate with product and engineering to define and execute strategy and control quality of implemented designs
+— Work collaboratively with product partners both in San Francisco, Ukraine, and India to define priorities, plan projects, and design approaches that enable the best experiences and outcomes
+— Demonstrate thought leadership by contributing subject matter expertise in the area of content design, storytelling, interaction design, visual design, user research, and online user behavior
+Про проект
+JustAnswer  is an online marketplace that is revolutionizing professional services by making fast, affordable expert help accessible to people everywhere. Hailed by The Huffington Post as “destined for glory,” our company is made of smart, hard-working people who know how to have fun and get things done. From doctors, lawyers, and vets to auto mechanics and tech support, the 10,000 experts on JustAnswer have helped over eight million people in 196 countries since 2003. Headquartered in the beautiful Presidio of San Francisco, our mission is simple and inspiring: “We help people.” JustAnswer, LLC is backed by investors Crosslink Capital, Glynn Capital, and Charles Schwab.",https://jobs.dou.ua/companies/justanswer/vacancies/218708/,Middle/Senior UX designer (with mobile expertise),https://jobs.dou.ua/companies/justanswer/,"Львів, Ужгород, віддалено",18 жовтня 2022
+airSlate,"Ми маємо 4 величезні продукти з публікою в 100+ млн людей по всьому світу в домені автоматизації електронного документообігу. Всі продукти дуже швидко зростають і кількість задач також. Власне, це і є причина, чому ми шукаємо посилення у вигляді Middle General QA Engineer-а)
+Що потрібно тестувати
+— Функціональне та нефункціональне тестування продуктів — 50% робочого часу;
+— Розробка, супровід та підтримка функціональних та інтеграційних автотестів з використанням Java — 50% робочого часу;
+— Перегляд специфікацій для розробки тест кейсів і тестових сценаріїв;
+— Налаштування, запуск і моніторинг автотестів у Jenkins.
+Тобі до нас якщо у тебе є
+— 3+ роки досвіду роботи в ручному та автотестуванні;
+— Глибокі знання об’єктно-орієнтованого проектування і Java;
+— Глибокі знання веб-сервісів (API, HTTP, дебагінку в браузері);
+— Знання Postman, Jenkins, Git, Jira.
+Команда
+Перш за все — це нова команда і новий проект)
+До-друге — тут немає джунів)
+По-третє — тут є Go Developer-и)
+І вона складається з: PM-а, 4 Go Developer-ів, 1 PHP Dev.-а, 1 JS Dev.-а і 1 Technical Writer-а.
+Як до нас потрапити
+У нас лише 3 етапи розгляду
+1) Пре-скринінг інтерв’ю з рекрутером (приблизно 30 хвилин)
+Рекрутер детально розповість все про компанію/продукти + задасть пару запитань, щоб скласти більш цілісну картину про кандидата та передати його резюме нашому технічному комітету.
+2) Технічне інтерв’ю (приблизно 1,5 години)
+Головна мета інтерв’юерів — визначити загальний технічний рівень фахівця і зрозуміти, в чому його експертиза є найглибшою, щоб визначити, в якій команді він зможе краще розкритися.
+3) Фінальне інтерв’ю з ПМ команди (приблизно 1 година)
+Тут вже не буде технічних питань, просто знайомство + ПМ розповість детальніше чим займається саме його команда.
+Чому ми
+Насамперед — свобода та можливості
+Так як компанія ми продуктова, у людей повністю розв’язані руки в плані розвитку та копання в глиб і в шир.
+Хочеш — пиши автотести, хочеш — з навантаженням розважайся, хочеш — у сек’юріті копай, все це оцінять)
+По-друге, це наші продукти
+Це швидкозростаючі та соціально-корисні продукти, якими користуються десятки мільйонів користувачів по всьому світу.
+По-третє, це культура нашої компанії
+Ми підбираємо відкритих людей, які ніколи не зупиняються у своєму розвитку, не відмовляють у допомозі та готові пропонувати нові ідеї для наших продуктів та робочих процесів.
+Ну і останнє, за рахунком, але не за значенням — наші плюшки)
+— З початку повномасштабного вторгнення команда airSlate працює віддалено. Нещодавно наш офіс у Києві було відчинено, але кожен самостійно вирішує де працювати. Безпека команди — найголовніше для компанії;
+— Компанія інвестує у кожного airSlater. Ми пропонуємо вчитися та розвивати свої навички, кожен має особистий бюджет на відвідування курсів та конференцій. Компанія сплачує уроків англійської мови для кожного бажаючого;
+— Члени нашої команди отримують щомісячні бонуси та опціонні контракти (кожен з нас має частку в airSlate, тому зростання компанії — це зростання наших доходів);
+— Максимальна відкритість менеджменту компанії: два рази на місяць СЕО компанії проводить онлайн-презентацію для команди щодо основних показників росту компанії та відповідає на питання команди;
+— Діє благодійна програма airSlate care donation: компанія повертає 50% від донату на підтримку України, зробленому нашим волонтерам;
+— Оплачувана відпустка — 16 робочих днів протягом першого року роботи в airSlate і 24 дні після першого року;
+— Медичне страхування (в тому числі покриває лікування від COVID-19);
+— Безлімітний лікарняний при наявності медичної довідки / 5 оплачуваних лікарняних днів на рік без медичної довідки;
+— airSlate Care — ми донатимо 1% ресурсів на підтримку та розвиток благодійних проектів.
+У Київському офісі діють додаткові бенефіти
+— Безкоштовні обіди з доставкою в офіс;
+— Тренажерний зал;
+— airSlate Delivery — кожні два тижні кожен член команди отримує доставку корисних подарунків від компанії додому;
+— airSlate Kids Club — ми організовуємо різні онлайн та офлайн заходи для дітей співробітників.
+Хто ми є?
+airSlate — продуктова IT-компанія, заснована в Бостоні, США ще в 2008 році. Ми створюємо продукти, спрямовані на автоматизацію бізнес-процесів та електронного документообігу.
+На даний момент портфоліо компанії включає 4 продукти
+— airSlate — no-code automation tool для автоматизації бізнес-процесів;
+— pdfFiller — PDF редактор;
+— SignNow — інструмент для електронного підпису;
+— USLegal — найбільша у США бібліотека шаблонів юридичних документів.
+Нині ми маємо понад 100 млн користувачів. З них 900 тисяч є постійними бізнес-клієнтами, а понад 1000 співробітників AirSlate працюють в офісах по всьому світу.
+Штаб квартира знаходиться в Бостоні, Массачусетс.",https://jobs.dou.ua/companies/airslate/vacancies/215688/,General QA Engineer,https://jobs.dou.ua/companies/airslate/,віддалено,13 жовтня 2022
+Scalr Labs Ukraine,"Scalr is a SaaS product company that builds the next generation of Cloud Management Platform for enterprises: highly focused on Terraform, DevOps, GitOps, everything as code, consistency, and simplicity.
+By joining our team, you’ll face the challenges and tradeoffs of building a highly reliable production system composed of modern microservices and the previous monolithic approach. The principal stack is Python, MySQL, RabbitMQ, Docker, and many python libraries for different problem domains: cloud, networking, data, concurrency, parsers, etc.
+Terraform provisions and manages the lifecycle of infrastructure. Scalr builds a management layer on top of Terraform, which helps DevOps scale to their entire organization. As an engineering organization, we follow a DevOps approach as well, researching cloud services, adopting best practices, and using Terraform throughout, which helps us better understand problems and use-cases.
+At Scalr, we believe that the best software is produced when engineers take pride and ownership of the code they write, which is why engineering is expected to provide customer support. We value troubleshooting skills and customer empathy because at the end of the day, writing good code and helping customers be successful is what lays the foundation of building great companies.
+Must have:
+🔹 5+ years of Python programming
+🔹 backend web development experience
+🔹 concurrency and parallelism (threading, multiprocessing, gevent, asyncio, etc.)
+🔹 OOP and Design patterns
+🔹 relational database design and query optimization
+Would be a plus
+:
+🔹 BA/BS in Computer Science or a related technical field
+🔹 DevOps experience (one from Terraform, Chef, Ansible, SaltStack, etc.)
+🔹 knowledge of Linux systems
+🔹 knowledge of network protocols (TCP/IP stack, sockets, HTTP/HTTPS, etc.)
+🔹 having experience in full-sweb development (ReactJS)
+As part of our team, you will work on:
+♦️ development of remote state & operations backend for Terraform
+♦️ API development for Infrastructure as code platform — configuration and management of the user environment using UI/API
+♦️ integration with third-party services — VCS, online payments, cloud computing, etc.
+Challenges you’ll need to meet:
+♦️ each task is unique and will require immersion in the subject
+♦️ study of third-party services API, study of Terraform behavior, design of internal services
+What does Scalr offer?
+🔹 Work with interesting product in an enjoyable environment
+🔹 The opportunity to see how your ideas and visions are realized
+🔹 Attractive compensation and benefits package
+🔹 Long-term contract and tax compensations
+🔹 Flexible schedule and possibility to work entirely remotely
+🔹 Medical insurance
+🔹 20 working days of paid vacation and unlimited paid sick leaves",https://jobs.dou.ua/companies/scalr-inc/vacancies/208378/,Senior Python Developer,https://jobs.dou.ua/companies/scalr-inc/,Львів,3 жовтня 2022
